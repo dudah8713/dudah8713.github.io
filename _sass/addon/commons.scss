@@ -768,7 +768,8 @@ $btn-mb: 0.5rem;
     letter-spacing: 0.25px;
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
-
+	color: rgba(254, 254, 254, 99%);
+	
     a {
       @extend %clickable-transition;
       @extend %sidebar-link-hover;
@@ -779,7 +780,7 @@ $btn-mb: 0.5rem;
 
   .site-subtitle {
     font-size: 95%;
-    color: var(--site-subtitle-color);
+    color: rgba(254, 254, 254, 99%);
     margin-top: 0.25rem;
     word-spacing: 1px;
     -webkit-user-select: none;
