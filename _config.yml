@@ -19,7 +19,7 @@ timezone: Asia/Shanghai
 
 title: 게임 개발 로그북 # the main title
 
-tagline: Game Dev Log by Next Level# it will display as the sub-title
+tagline: Game Dev Log by Next Level # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
