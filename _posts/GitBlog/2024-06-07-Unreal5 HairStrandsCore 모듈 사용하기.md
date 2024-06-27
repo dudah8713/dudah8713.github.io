@@ -1,13 +1,12 @@
 ---
-title: "Unreal 5 hairstrandscore 모듈 사용하기"
+title: "Unreal 5 Hairstrandscore 모듈 사용하기"
 
 categories: 
      - Unreal5
 tags:
     - Game Dev, Unreal5
 ---
-
-# Unreal 5 HairStrandsCore 모듈
+# Unreal 5
 
 > **Udemy의 Ultimate Game Developer 81번째 강의**
 
@@ -20,7 +19,7 @@ tags:
     
 2. 그 다음에 .uproject 를 실행하려고 하니 아래와 같은 에러창을 띄우며 실행 불가능
 
-🚧 게임 모듈을 로드하지 못했습니다. 운영체제 오류가 있거나 모듈 설정이 제대로 되지 않았을 수 있습니다.**
+ **게임 모듈을 로드하지 못했습니다. 운영체제 오류가 있거나 모듈 설정이 제대로 되지 않았을 수 있습니다.**
 
 → 엔진 버전업이 되면서 HairStrandsCore 모듈에 HairStrands 플러그인이 필요하다는 것을 알았다.
 
@@ -50,3 +49,8 @@ tags:
 ```
 
 → 이후 다시 한번 프로젝트 파일 재생성 과정을 통해서 해결
+
+- 3줄 요약
+1. “Niagara” 모듈 추가 
+2. HairStrands 플러그인 추가, HairStrands.uplugin 수정 
+3. 프로젝트 재생성
