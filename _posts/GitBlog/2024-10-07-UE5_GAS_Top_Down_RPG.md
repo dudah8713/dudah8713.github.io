@@ -1,5 +1,5 @@
 ---
-title: "Unreal 5 Hairstrandscore 모듈 사용하기"
+title: "Unreal Engine 5 - Gameplay Ability System 강의 정리 시작"
 
 categories: 
      - UE5_GAS_강의정리
